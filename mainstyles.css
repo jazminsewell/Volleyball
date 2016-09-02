@@ -1,0 +1,23 @@
+body h1 {
+	border: medium;
+	background-color: #FFCAE1;
+	
+}
+body p h2 {
+	background-color: #FFFFFF;
+}
+body h2 {
+	background-color: #FFFFFF;
+}
+.halfpage { 
+width:50%; 
+}
+body h2 header {
+	font-family: Cambria, Hoefler Text, Liberation Serif, Times, Times New Roman, serif;
+}
+body div {
+	font-family: Cambria, Hoefler Text, Liberation Serif, Times, Times New Roman, serif;
+}
+.floatleft { float: left; margin: 0px 5px 5px 0px; }
+.floatright { float: right; margin: 0px 0px 5px 5px; }
+
